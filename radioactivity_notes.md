@@ -25,7 +25,7 @@ Final goal: measure concentration of radon via **
 Session 1: 
 * Measuring Cesium-137 source. 
 * Take 'plateau curve' to figure out the operating voltage.
-* Measuring background radiation.
+ Measuring background radiation.
 
 Session 2:
 * Air sampler => decay curve
