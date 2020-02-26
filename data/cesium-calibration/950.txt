@@ -1,0 +1,10 @@
+ Radioactive Decay Experiment Wed, Feb 26, 2020 11:06 AM
+Sample Number	Number of Counts
+1	700
+2	743
+3	704
+4	703
+5	717
+6	726
+7	722
+8	782
