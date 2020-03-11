@@ -1,0 +1,19 @@
+/*
+Yong Da Li, Jordan Hong, Aman Bhargava
+Wednesday, March 11, 2020
+
+2nd part of Radioactivity in Air lab
+air sampler taken from Toronto --> west side of MP 
+building (MP250)
+"blower" was run for 45min (9:15am - 10:00am) onto stock filter 
+paper
+
+see here for source
+https://toronto.weatherstats.ca/metrics/
+*/
+
+clouds: partly cloudly
+temperature: 2C
+wind chill: -2C
+relative humidity (hourly mean): 78%
+pressure: 100.1 kPa
